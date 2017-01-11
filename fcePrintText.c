@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int printText(char * text){
-  printf("%s\n");
+  printf("%s\n", text);
 
 }
